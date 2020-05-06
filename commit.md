@@ -1,1 +1,1 @@
-12 Vue node-modules APIs updated on 6/22/2020
+14 Vue node-modules APIs updated on 5/6/2020
